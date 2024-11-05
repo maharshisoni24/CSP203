@@ -1,1 +1,2 @@
 Update from first repository
+Conflicting change on master branch
