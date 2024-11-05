@@ -1,2 +1,2 @@
-Update from first repository
-Conflicting change on master branch
+Change on edit_sample_file branch
+
